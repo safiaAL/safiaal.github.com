@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(216, 133, 74);
+}
+h2{
+    margin-left: 90px;
+}
+div{
+    display: flex;
+    margin-left: 50px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+video{
+    width: 400px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 30px;
+    font-size: 20px;
+}
